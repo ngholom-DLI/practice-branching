@@ -12,10 +12,7 @@ library(lubridate)
 library(zoo)
 library(ggplot2)
 
-#Maybe we'll eventually be developing our own packages, in which case
-#People would be able to install our packages straight from github with just two lines:
-install.packages("devtools")
-devtools::install_github("username/packagename")
+
 
 #URLs for Mobility data:
 tm_outside<-"https://raw.githubusercontent.com/OpportunityInsights/EconomicTracker/main/data/Google%20Mobility%20-%20State%20-%20Daily.csv"
@@ -47,10 +44,16 @@ comb_df<-comb_df %>% select(date, gps_retail_and_recreation:gps_away_from_home)
 
 #plot graph:
 ggplot()+geom_line(data = comb_df, aes(x = date, y = gps_retail_and_recreation), color = "blue") +
-  geom_line(data = comb_df, aes(x = date, y = gps_away_from_home), color = "red") +
+  geom_line(data = comb_df, aes(x = date, y = gps_workplaces), color = "red") +
   xlab('Dates') +
   ylab('Time by Location, Indexed to Pre-pandemic')
 
 
 #write to csv for graph
 write_csv(comb_df, paste0(final, "time_away_covid_cases.csv"), na="")
+
+#R also has a devtools package that helps with putting your package on github and then downloading that package:
+#Maybe we'll eventually be developing our own packages, in which case
+#People would be able to install our packages straight from github with just two lines:
+install.packages("devtools")
+devtools::install_github("username/packagename")
