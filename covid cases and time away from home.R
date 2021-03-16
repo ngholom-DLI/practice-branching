@@ -28,7 +28,7 @@ covid_df<-read.csv(covid)
 
 
 #subset data frames to Montana
-covid_df<-subset(covid_df, statefips==30)
+covid_df<-subset(covid_df, statefips==29)
 tm_out<-subset(tm_out, statefips==30)
 
 #combine dataframes
