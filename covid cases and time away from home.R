@@ -44,7 +44,7 @@ comb_df<-comb_df %>% select(date, gps_retail_and_recreation:gps_away_from_home)
 
 #plot graph:
 ggplot()+geom_line(data = comb_df, aes(x = date, y = gps_retail_and_recreation), color = "blue") +
-  geom_line(data = comb_df, aes(x = date, y = gps_workplaces), color = "red") +
+  geom_line(data = comb_df, aes(x = date, y = gps_away_from_home), color = "red") +
   xlab('Dates') +
   ylab('Time by Location, Indexed to Pre-pandemic')
 
