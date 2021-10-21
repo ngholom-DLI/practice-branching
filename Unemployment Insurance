@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T15:52:55.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="14.8.0" etag="L_9cXZYA53g8pCzCgL04" type="github"><diagram id="blurdqRRvgjys-WmQZPS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-21T16:03:45.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="MYRO37M4xbOpRgdGFfgh" version="14.8.0" type="github">
+  <diagram id="blurdqRRvgjys-WmQZPS" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uQ3ioIVD4B4eSPpGvm-v-1" value="Regular Claim - In Montana, this is the type of claim most people would have under normal circumstances. Claimants typically qualify for 28 weeks." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uQ3ioIVD4B4eSPpGvm-v-2" value="EB - Extended Benefits - typically an addition 13 weeks or half of the initial benefit period (whichever is smaller). In MT, its 13 weeks of additional payments for claimants that exhaust benefits (claim 28 weeks) when the IUR is above 6%" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uQ3ioIVD4B4eSPpGvm-v-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uQ3ioIVD4B4eSPpGvm-v-1" target="uQ3ioIVD4B4eSPpGvm-v-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="180" as="sourcePoint" />
+            <mxPoint x="380" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQ3ioIVD4B4eSPpGvm-v-6" value="UCX -&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="180" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
