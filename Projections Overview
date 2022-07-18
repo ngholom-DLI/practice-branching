@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T19:28:59.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ILFCvtHr-58CG4McXn_1" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T19:36:56.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TtwtaVG70TMOj5TqZeVF" version="20.1.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -76,14 +76,38 @@
         <mxCell id="_Enb6BMNCVR_BUN6iOVa-19" value="Projections Overview" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="110" y="10" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Enb6BMNCVR_BUN6iOVa-36" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="_Enb6BMNCVR_BUN6iOVa-24" target="_Enb6BMNCVR_BUN6iOVa-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_Enb6BMNCVR_BUN6iOVa-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_Enb6BMNCVR_BUN6iOVa-24" target="_Enb6BMNCVR_BUN6iOVa-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_Enb6BMNCVR_BUN6iOVa-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Compile Data SAS Program&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="50" y="290" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_Enb6BMNCVR_BUN6iOVa-35" value="&lt;b&gt;graphqtr.xslx&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="_Enb6BMNCVR_BUN6iOVa-47" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="_Enb6BMNCVR_BUN6iOVa-43" target="_Enb6BMNCVR_BUN6iOVa-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Enb6BMNCVR_BUN6iOVa-43" value="&lt;b&gt;Graphqtr.xlsx which will have the base period for all regions and two and three digit naics levels&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=18;strokeColor=#b46504;fillColor=#fad7ac;" vertex="1" parent="1">
+          <mxGeometry x="90" y="385" width="250" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="_Enb6BMNCVR_BUN6iOVa-49" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="_Enb6BMNCVR_BUN6iOVa-46" target="_Enb6BMNCVR_BUN6iOVa-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Enb6BMNCVR_BUN6iOVa-46" value="&lt;b&gt;Create Two Digit Projections in R or SAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_Enb6BMNCVR_BUN6iOVa-51" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="_Enb6BMNCVR_BUN6iOVa-48" target="_Enb6BMNCVR_BUN6iOVa-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Enb6BMNCVR_BUN6iOVa-48" value="&lt;b&gt;Other Economist Review Two Digit&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_Enb6BMNCVR_BUN6iOVa-50" value="&lt;b&gt;Use Manually Revised Two Digit Projections To Create Regional&amp;nbsp;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;rounded=0;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
