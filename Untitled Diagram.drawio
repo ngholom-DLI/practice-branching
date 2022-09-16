@@ -1,30 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T19:12:07.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1COvfzY1rFb0-Z9mSjgp" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T19:14:10.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CPSr5NjJb5be8_kmcYqL" version="20.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;b&gt;Claim Disbursements (UI, CWC, UCX, UCFE)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="190" width="160" height="70" as="geometry" />
+          <mxGeometry x="210" y="235" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bWDST8uhisJoDBvzoeGQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWDST8uhisJoDBvzoeGQ-0" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="bWDST8uhisJoDBvzoeGQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWDST8uhisJoDBvzoeGQ-0" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="225" />
-              <mxPoint x="140" y="170" />
-              <mxPoint x="270" y="170" />
+              <mxPoint x="150" y="210" />
+              <mxPoint x="270" y="210" />
+              <mxPoint x="270" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bWDST8uhisJoDBvzoeGQ-0" value="&lt;b&gt;Average Benefit Amounts&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="185" width="80" height="80" as="geometry" />
+          <mxGeometry x="70" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bWDST8uhisJoDBvzoeGQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWDST8uhisJoDBvzoeGQ-1" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bWDST8uhisJoDBvzoeGQ-1" value="&lt;b&gt;Claim Levels&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="240" y="65" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bWDST8uhisJoDBvzoeGQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWDST8uhisJoDBvzoeGQ-5" target="bWDST8uhisJoDBvzoeGQ-1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,8 +32,8 @@
         <mxCell id="bWDST8uhisJoDBvzoeGQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bWDST8uhisJoDBvzoeGQ-5" target="bWDST8uhisJoDBvzoeGQ-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWDST8uhisJoDBvzoeGQ-5" value="&lt;b&gt;Instead of counting continued claims, wes should take the entitlement distribution table, and count the claims by program fund code to get seasonality for each claim type. Then project&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-90" y="20" width="170" height="130" as="geometry" />
+        <mxCell id="bWDST8uhisJoDBvzoeGQ-5" value="&lt;b&gt;Create a count of claim distributions from the entitlement distribution table, and count the claims by program fund code to get seasonality for each claim type. Then get the average distribution amount using the 2112 amounts divided by the claims from the entitlement distribution table.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="20" width="170" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
